@@ -1,0 +1,5 @@
+# lua-config
+
+> Shareable Lua configuration providing standardized LuaCheck and StyLua rules adhering to modern 2026 standards.
+
+Language: en-GB

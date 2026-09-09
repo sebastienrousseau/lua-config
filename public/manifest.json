@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "description": "How to install and set up @sebastienrousseau/lua-config.",
+  "display": "standalone",
+  "name": "lua-config",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "CF",
+  "start_url": ".",
+  "theme_color": null
+}

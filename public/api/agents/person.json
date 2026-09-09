@@ -1,0 +1,6 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "lua-config",
+  "url": "https://sebastienrousseau.com/lua-config"
+}
