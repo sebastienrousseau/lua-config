@@ -6,7 +6,7 @@
 class LuaConfig < Formula
   desc "Shareable Lua configuration providing standardized LuaCheck and StyLua rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/lua-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/lua-config/-/lua-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/lua-config/-/lua-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
